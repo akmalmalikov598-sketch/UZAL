@@ -1,0 +1,6 @@
+data/
+extracted/
+*.bz2
+__pycache__/
+*.pyc
+.env
